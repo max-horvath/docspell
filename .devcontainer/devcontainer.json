@@ -1,3 +1,7 @@
-"features": {
-  "ghcr.io/devcontainers/features/nix:1": { "install_version": "unstable" }
+{
+  "features": {
+    "ghcr.io/devcontainers/features/nix:1": { 
+      "install_version": "latest" 
+    }
+  }
 }
